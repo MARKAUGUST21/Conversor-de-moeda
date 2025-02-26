@@ -10,6 +10,5 @@
  7. Verificação de moedas inválidas
  8. Realização da conversão
  9. Captura de dados do usuário
-10.Tratamento de erro para o valor
-11.Exibição do resultado
- 
+ 10. Tratamento de erro para o valor
+ 11. Exibição do resultado
